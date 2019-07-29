@@ -7,7 +7,7 @@ Hello world! Thank you for visiting my website. <br><br><br>
 <p> I'm studying Information Technology at Faculty of Organization and Informatics in Varaždin and I'm currently in the final year of bachelor's programme Information and Business Systems.<p><br>
 <p> Interests include web technologies, mobile app development, databases but also project management and business organization. </p>
 <p> Some of my other interests include history, archaeology, philosophy, languages, politics and economics. </p><br>
-<p> In my free time I love to play video games, read books and watch films. Some of my hobbies are mountain biking and fitness. <br><br><br>
+<p> In my free time I love to play video games, read books and watch films. Some of my other hobbies are mountain biking and fitness. <br><br><br>
 <p> You can find me on<a href="https://twitter.com/schimahr"> Twitter </a>and<a href="https://github.com/schimahr"> GitHub</a>.</p>
 
 
