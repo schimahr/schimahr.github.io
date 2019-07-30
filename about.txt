@@ -12,5 +12,4 @@ Hello world!<br>
 <p> You can find me on<a href="https://twitter.com/schimahr"> Twitter </a>and<a href="https://github.com/schimahr"> GitHub</a>.</p>
 
 
-
 <p>Have a nice day!</p>
