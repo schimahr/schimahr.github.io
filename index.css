@@ -5,12 +5,11 @@ body {
 #console {
 	font-family: courier, monospace;
 	color: #fff;
-	widows: 75%;
+	widows: 800px;
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:90px;
-	margin-bottom:150px;
-	font-size:14px;
+	font: 12px;
 }
 
 a {
