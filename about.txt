@@ -4,12 +4,12 @@
 Hello world!<br>
 
 <p> My name is Ivan and I'm currently living in Croatia.</p>
-<p> I'm Information Technology student at Faculty of Organization and Informatics in Varaždin and I'm currently in the final year of bachelor's programme Information and Business Systems.<p>
+<p> I'm studying Information Technology at Faculty of Organization and Informatics in Varaždin and I'm currently in the final year of bachelor's programme Information and Business Systems.<p>
 <p> My interests include web technologies, mobile app development, databases and project management.</p>
 <p> Some of my other interests are history, archaeology, philosophy, languages, politics and economics. </p>
 <p> In my free time I love to play video games, read books and watch films. 
     Some of my other hobbies are mountain biking and fitness. </p> <br>
-<p> You can find me on<a href="https://twitter.com/schimahr"> Twitter </a>and<a href="https://github.com/schimahr"> GitHub</a>.</p>
+<p> You can find me on <a href="https://twitter.com/schimahr">Twitter</a> and <a href="https://github.com/schimahr">GitHub</a>.</p>
 
 
 <p>Have a nice day!</p>
