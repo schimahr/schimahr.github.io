@@ -5,11 +5,11 @@ body {
 #console {
 	font-family: courier, monospace;
 	color: #fff;
-	widows: 800px;
+	width: 800px;
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:90px;
-	font: 12px;
+	font: 14px;
 }
 
 a {
@@ -29,9 +29,6 @@ a {
 	color: #ff0096;
 }
 
-#k {
-    	animation: change 1s;
-}
 
 #op{
     	color: #888888
