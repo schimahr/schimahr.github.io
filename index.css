@@ -1,8 +1,8 @@
 body {
 	background-color: #000;
-	-webkit-text-size-adjust: auto;
-	-ms-text-size-adjust: auto;
-	-moz-text-size-adjust: auto;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
 
 }
 
