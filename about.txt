@@ -4,7 +4,7 @@
 Hello world!<br>
 
 <p> My name is Ivan and I currently live in Croatia.</p>
-<p> I graduated with Bachelor of Science in Information Technology and I'm currently pursuing masters degree in Business Informatics.<p>
+<p> I graduated with Bachelor of Science in Information Technology and I'm currently pursuing master's degree in Business Informatics.<p>
 <p> My interests include web & mobile app development, databases, information systems and analytics.</p>
 <p> Some of my other interests are history, philosophy, languages, politics and economics.</p>
 <p> You can find me on <a href="https://twitter.com/schimahr">Twitter</a> and <a href="https://github.com/schimahr">GitHub</a>.</p>
