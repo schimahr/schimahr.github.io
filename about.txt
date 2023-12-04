@@ -1,12 +1,12 @@
-<span id="a">ivansimicic@ares</span>:<span id="b">~</span><span id="c">$</span> cd ivansimicic/about
-<span id="a">ivansimicic@ares</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/><br/>
+<span id="a">ivansimicic@moon</span>:<span id="b">~</span><span id="c">$</span> cd ivansimicic/about
+<span id="a">ivansimicic@moon</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/><br/>
 
 Hello, world!<br>
 
 <p> My name is Ivan and I'm a Software Engineer who dabbles in UI/UX design and machine learning.</p>
 <p> I graduated with Master of Science in Information Technology degree and I'm currently working as a Software Engineer.<p>
 <p> My interests include web & mobile app development, databases, information systems, machine learning and analytics.</p>
-<p> Some of my other interests/hobbies are fitness, archery, reading, video games, history, sociology, philosophy, politics and economics.</p>
+<p> Some of my other interests/hobbies are fitness, mountain biking, archery, reading, video games, history and philosophy.</p>
 <p> You can find me on <a href="https://www.linkedin.com/in/ivansimicic/">LinkedIn</a> and <a href="https://github.com/schimahr">GitHub</a>.</p>
 
 
